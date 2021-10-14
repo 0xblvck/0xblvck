@@ -1,6 +1,6 @@
 ### Hola! 👋
 
-👨‍💻 I am iOS developer at [SimbirSoft](https://www.simbirsoft.com) **(\*)**
+👨‍💻 I am iOS developer at [SimbirSoft](https://www.simbirsoft.com) \n
 📱 I’m currently working on HR-Tetch mobile app
 
 <!--
