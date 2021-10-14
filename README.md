@@ -1,7 +1,6 @@
 ### Hola! 👋
 
-👨‍💻 I am iOS developer at [SimbirSoft](https://www.simbirsoft.com) \n
-📱 I’m currently working on HR-Tetch mobile app
+👨‍💻 I am iOS developer at [SimbirSoft](https://www.simbirsoft.com)
 
 <!--
 **0xblvck/0xblvck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
